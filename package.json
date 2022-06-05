@@ -1,0 +1,22 @@
+{
+  "name": "youtubeproject",
+  "version": "1.0.0",
+  "description": "\"You Tube Application Demo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshrk123/YouTubeProject.git"
+  },
+  "author": "Rakesh Hande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshrk123/YouTubeProject/issues"
+  },
+  "homepage": "https://github.com/rakeshrk123/YouTubeProject#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
